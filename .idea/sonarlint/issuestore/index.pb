@@ -1,0 +1,31 @@
+
+O
+src/test/resources/input.days/2,d/5/d551074763c122540bd1796dc4b56f89262468ff
+O
+src/test/resources/input.days/3,a/d/adffc656c8808a32a1e7ab9bc20ddea6666edd7c
+O
+src/test/resources/input.days/4,e/b/eb7c36de99be3115199f9f79669a269375250d3b
+|
+Lsrc/main/java/com/omdelafuente/adventofcode/days/iii/TobogganTrajectory.java,f/8/f8a9d1442630d4cc4433e657a7713a660e12e228
+t
+Dsrc/main/java/com/omdelafuente/adventofcode/days/i/ReportRepair.java,a/f/af71ebcf4ccbfede6a75dbefca9cc38243a1f114
+{
+Ksrc/main/java/com/omdelafuente/adventofcode/days/ii/PasswordPhilosophy.java,1/d/1dd9c64e0a45a60cf957c5580fcf52567039da00
+{
+Ksrc/main/java/com/omdelafuente/adventofcode/days/iv/PassportProcessing.java,b/9/b97d44a8f390c6e8b50c3f206e2b8f2603a3b34a
+q
+Asrc/main/java/com/omdelafuente/adventofcode/util/RomanNumber.java,d/e/dec46687a22e76da0e4ca3bb2402c539f41ed89e
+g
+7src/main/java/com/omdelafuente/adventofcode/Puzzle.java,b/1/b15f9fd4fc5bdce5a75b0679cf0f4949fad9d566
+x
+Hsrc/test/java/com/omdelafuente/adventofcode/days/i/ReportRepairTest.java,1/f/1f3388cea1c681ec0d83690180f014368ab9b736
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+e
+5src/main/java/com/omdelafuente/adventofcode/Main.java,7/8/785998d3e54a9c69685f784dac258558b513951e
+v
+Fsrc/main/java/com/omdelafuente/adventofcode/days/v/BinaryBoarding.java,5/2/5236b318e9b7ac1e3def1c95909d93eb9d177bfe
+v
+Fsrc/main/java/com/omdelafuente/adventofcode/days/vi/CustomCustoms.java,8/a/8a9fdde046b0e9964da2eac876ee0e7a20bf231e
+y
+Isrc/main/java/com/omdelafuente/adventofcode/days/vii/HandyHaversacks.java,4/8/48b44f0fb7dba62765733c14c64fa02178b9d3e4
